@@ -8,3 +8,10 @@
 ```javascript
     view  http://localhost:3000/
 ```
+
+### 简化的demo
+
+进入到book文件夹下 
+```javascript
+    $node --harmony demo.js  
+```
